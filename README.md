@@ -1,4 +1,7 @@
-# Solidity_DataHelper
+# Solidity
+
+DataHelper 
+----------
 Utility-contract to make it easier to work with data structures like arrays, maps or dictionaries
 
 Just "import" this contract to your project and use the contains()-function like 
