@@ -1,3 +1,5 @@
+//@author: Benjamin Isak
+
 pragma solidity ^0.4.17;
 
 contract DataHelper {
